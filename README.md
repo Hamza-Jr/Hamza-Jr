@@ -86,18 +86,19 @@
 
 ###
 
-<p align="left">eljiraari.hamza@gmail.com</p>
+<h1 align="left"><a href="mailto:yourname@example.com">yourname@example.com</a></h1>
+
 
 ###
 
 ## 📊 GitHub Stats & Analytics
 
 ### GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Jr&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### GitHub Top Languages:
-![Your GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&langs_count=8&theme=radical)
+![Your GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Jr&langs_count=8&theme=radical)
 
 ### GitHub Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Jr&theme=radical)
 
