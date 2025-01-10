@@ -1,56 +1,91 @@
-# 👋 Hello! I'm [Your Name]  
-*Master's Student in Embedded Artificial Intelligence*
+<h1 align="left">Hi there, I'm HAMZA EL JIRARI  👋</h1>
 
----
+###
 
-## 🚀 Skills
+<h2 align="left">👨‍💻 About Me:</h2>
 
-### **Programming Languages**
-- C, C++, Java, Python
+###
 
-### **Databases**
-- SQL: MySQL, Oracle  
-- NoSQL: MongoDB
+<p align="left">Master's Student in Embedded Artificial Intelligence.</p>
 
-### **Machine Learning & Deep Learning**
-- **ML Algorithms**: Supervised and Unsupervised Learning  
-- **DL Architectures**: MLP, CNN, RNN, LSTM, Autoencoders  
-- **ML & DL Tools**: TensorFlow, Keras, scikit-learn
+###
 
-### **Data Analysis & Visualization**
-- **Tools**: Matplotlib, pandas, Seaborn, Plotly
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-### **Computer Vision**
-- **Libraries**: Scikit-Image, OpenCV
+###
 
-### **Web Development**
-- **Front-End**: HTML, CSS, JS  
-- **Back-End**: PHP, Django
+<h2 align="left">📚 Programming Languages</h2>
 
----
+###
 
-## 💻 Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-### 1. **Handwritten Digit & Character Recognition**
-- Built a system for recognizing digits and handwritten characters in images using supervised learning.
+###
 
-### 2. **Facial Attribute Prediction with CNN**
-- Developed a Convolutional Neural Network (CNN)-based system to predict facial attributes (age, gender, emotions) from images.
+<h2 align="left">📚 Databases</h2>
 
-### 3. **Forest Fire Prediction**
-- Applied supervised machine learning algorithms (Random Forest, SVM, KNN, MLP) for forest fire prediction.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
-## 📫 Connect with Me
-- [LinkedIn](Your LinkedIn URL)  
-- [Twitter](Your Twitter URL)  
-- [Email](Your Email)
+###
 
----
+<h2 align="left">📚 Machine Learning & Deep Learning</h2>
 
-## 📊 GitHub Stats
+###
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=prs&theme=dark)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+</div>
 
----
+###
+
+<h2 align="left">📚 Web Development</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<h2 align="left">🌍 Connect with Me</h2>
+
+###
+
+<p align="left">eljiraari.hamza@gmail.com</p>
+
+###
