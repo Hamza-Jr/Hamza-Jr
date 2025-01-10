@@ -100,6 +100,7 @@
 ![Your GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Jr&langs_count=8&theme=radical)
 
 ### GitHub Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Jr&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Jr&theme=radical)
+
 
 
