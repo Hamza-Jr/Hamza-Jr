@@ -8,7 +8,6 @@
 
 <p align="left">Master's Student in Embedded Artificial Intelligence.</p>
 
-
 ###
 
 <h2 align="left">📚 Programming Languages</h2>
