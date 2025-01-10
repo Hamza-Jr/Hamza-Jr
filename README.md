@@ -89,3 +89,15 @@
 <p align="left">eljiraari.hamza@gmail.com</p>
 
 ###
+
+## 📊 GitHub Stats & Analytics
+
+### GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+### GitHub Top Languages:
+![Your GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&langs_count=8&theme=radical)
+
+### GitHub Streaks:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+
