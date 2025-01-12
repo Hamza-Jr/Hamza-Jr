@@ -82,7 +82,7 @@
 
 ###
 
-<h1 align="left"><a href="eljiraari.hamza@gmail.com">hamza_jr</a></h1>
+<h1 align="left"><a href="mailto:eljiraari.hamza@gmail.com">hamza_jr</a></h1>
 
 
 ###
