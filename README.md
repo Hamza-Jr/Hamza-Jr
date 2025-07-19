@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Master's Student in Embedded Artificial Intelligence.</p>
+<p align="left">Master's Student in Embedded Artificial Intelligence.</p> 
 
 ###
 
